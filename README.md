@@ -69,13 +69,13 @@ Continuous Monitoring
 ## Project Demonstration
 
 ### Hardware Setup
-<img src="images/setup.jpg" width="250"/>
+<img src="images/setup.jpg" width="500"/>
 
 ### Training Result
-<img src="training-results.png" width="250"/>
+<img src="images/training-results.png" width="500"/>
 
 ### Detection Result
-<img src="detection-demo.jpg" width="250"/>
+<img src="images/detection-demo.jpg" width="500"/>
 
 ---
 
