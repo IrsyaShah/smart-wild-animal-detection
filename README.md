@@ -69,22 +69,13 @@ Continuous Monitoring
 ## Project Demonstration
 
 ### Hardware Setup
-
-```md
 ![Hardware Setup](images/setup.jpg)
-```
 
 ### Training Result
-
-```md
 ![Training Result](images/training-results.png)
-```
 
 ### Detection Result
-
-```md
 ![Detection Output](images/detection-demo.jpg)
-```
 
 ---
 
