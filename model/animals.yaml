@@ -1,0 +1,8 @@
+path: C:/Users/irsya/Desktop/animal_dataset
+train: images/train
+val: images/val
+
+names:
+  0: wildpig
+  1: monkey
+  2: dog
