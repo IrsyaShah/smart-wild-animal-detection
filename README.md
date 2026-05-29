@@ -8,9 +8,9 @@ This system was designed to automatically detect wild animals and send alert not
 
 The system focuses on three animal classes :
 
-* Wild Pig
-* Monkey
-* Dog
+* **Wild Pig**
+* **Monkey**
+* **Dog**
 
 ---
 
