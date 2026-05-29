@@ -14,7 +14,8 @@ The system focuses on three animal classes :
 
 ---
 
-Demo Video
+## Demo Video
+
 Watch the system demo here : https://youtu.be/6-AmO1_-4BQ
 
 This demo showcases real time animal detection using a custom-trained YOLO11n model, along with image capture, Telegram notifications and buzzer alerts.
