@@ -79,6 +79,15 @@ Continuous Monitoring
 
 ---
 
+### 🎥 System Demonstration Video
+
+A short demonstration of the Smart Wild Animal Detection System is available in the `/demo` folder.
+
+Video:
+demo/system-demo.mp4
+
+---
+
 ## Sample Testing Media
 
 Sample testing images and videos are available inside the `/media` folder.
