@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project was developed to enhance safety in rural and residential areas by integrating artificial intelligence with a Raspberry Pi camera monitoring system.
+The Smart Wild Animal Detection System is an AI-powered monitoring system developed using Raspberry Pi 5, Python and YOLO11n.
 
-Conventional monitoring systems only record footage without providing immediate alerts, causing delayed response during wild animal intrusions. This system solves that problem by automatically detecting animals and sending instant notifications to homeowners through Telegram.
+This system was designed to automatically detect wild animals and send alert notifications through Telegram. It also triggers a buzzer warning system when an animal is detected.
 
-The system focuses on detecting :
+The system focuses on three animal classes :
 
 * Wild Pig
 * Monkey
