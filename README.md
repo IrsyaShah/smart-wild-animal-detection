@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Smart Wild Animal Detection System is an AI-powered monitoring system developed using Raspberry Pi 5, Python and YOLO11n.
+The Smart Wild Animal Detection System is an AI-powered monitoring system developed using **Raspberry Pi 5**, **Python** and **YOLO11n**.
 
 This system was designed to automatically detect wild animals and send alert notifications through Telegram. It also triggers a buzzer warning system when an animal is detected.
 
