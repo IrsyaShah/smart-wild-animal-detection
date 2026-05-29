@@ -14,6 +14,13 @@ The system focuses on detecting :
 
 ---
 
+Demo Video
+Watch the system demo here : https://youtu.be/6-AmO1_-4BQ
+
+This demo showcases real time animal detection using a custom-trained YOLO11n model, along with image capture, Telegram notifications and buzzer alerts.
+
+---
+
 ## Objectives
 
 * Develop an intelligent detection system using Raspberry Pi and AI.
@@ -76,15 +83,6 @@ Continuous Monitoring
 
 ### Detection Result
 <img src="images/detection-demo.jpg" width="500"/>
-
----
-
-### 🎥 System Demonstration Video
-
-A short demonstration of the Smart Wild Animal Detection System is available in the `/demo` folder.
-
-Video:
-demo/system-demo.mp4
 
 ---
 
